@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = acorreasantos2002@gmail.com
+	name = andre santos
